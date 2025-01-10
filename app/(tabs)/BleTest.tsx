@@ -17,9 +17,9 @@ import { Buffer } from "buffer";
 // -----------------------------
 // 1) BLE 관련 상수 (Python 코드 기준)
 // -----------------------------
-const SENSOR_SERVICE_UUID = "00000001-710e-4a5b-8d75-3e5b444bc3cf";
-const IMU_CHARACTERISTIC_UUID = "00000002-710e-4a5b-8d75-3e5b444bc3cf";
-const LASER_CHARACTERISTIC_UUID = "00000003-710e-4a5b-8d75-3e5b444bc3cf";
+const SENSOR_SERVICE_UUID = "00000001-736c-4645-b520-7127aadf8c47";
+const IMU_CHARACTERISTIC_UUID = "00000002-736c-4645-b520-7127aadf8c47";
+const LASER_CHARACTERISTIC_UUID = "00000003-736c-4645-b520-7127aadf8c47";
 const DEVICE_LOCAL_NAME = "NeuraLoad"; // 라즈베리 파이에서 광고하는 로컬 이름
 
 /**
